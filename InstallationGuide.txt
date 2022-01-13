@@ -1,0 +1,6 @@
+#Steps
+1.install latest Node
+2.Unzip project folder
+3.Excute npm cmd install from project folder
+4.Execute npm start
+5.App url "http://localhost:3000/"
